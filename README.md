@@ -62,6 +62,8 @@ This function computes the probability density function of the examples in `X` u
 
 To use the anomaly detection system, run `main.py`, which will load the data, estimate Gaussian parameters, and identify anomalies in the training set.
 
+<img width="846" alt="figure3" src="https://github.com/alessiopelusi/Detector-of-Failing-Servers/assets/130958426/c8976d05-51df-4926-9d2b-9ae50c61c3ee">
+
 For further details on the implementation, please refer to the code and function comments in both `main.py` and `utils.py`.
 
 Enjoy using this anomaly detection system!
