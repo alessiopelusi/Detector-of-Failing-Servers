@@ -1,6 +1,8 @@
 # Detector-of-Failing-Servers
 
-This project is designed for anomaly detection using a multivariate Gaussian distribution. It includes the following files:
+This project is designed for anomaly detection, aiming to identify anomalous behavior in server computers using a multivariate Gaussian distribution. 
+
+It includes the following files:
 
 1. `main.py`: The main script for estimating the Gaussian parameters, selecting a threshold, and identifying anomalies.
 
